@@ -12,3 +12,4 @@ The unsupervised method will be K-means and PCA to cluster the pixels and identi
 
 Pictures below are the RGB picture of the rock samples and the mineral map used as reference in this repository:
 ![alt text](https://github.com/panjoel4/MineralMapping/blob/main/Data/Sample%20Files.png?raw=true)
+This result is taken from the MSc Thesis of Mr. Rifat Noor and can be downloaded ![here](http://essay.utwente.nl/83451/)
