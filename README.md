@@ -16,4 +16,4 @@ Pictures below are the RGB picture of the rock samples and the mineral map used 
 These mineral maps taken from the MSc Thesis of Mr. Rifat Noor and can be downloaded [here](http://essay.utwente.nl/83451/).
 
 
-I am currently working on taking this idea into an article and use a bigger dataset (Drill Core Scan Data from Geological Survey of Sweden)
+I am currently working on taking this idea into an article and use a bigger dataset (Drill Core Scan Data from Geological Survey of Sweden).
