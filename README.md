@@ -5,7 +5,7 @@
 The articles are now available online: </br>
 Supervised method: [go to article](https://www.researchgate.net/publication/366877829_Mineral_Identification_on_Hyperspectral_Imagery_of_Rock_Samples_Using_Machine_Learning) </br>
 Unsupervised method: https://www.jurnalet.com/jet/article/view/507 </br>
-To follow the latest update please follow my research group [project](https://www.researchgate.net/project/Machine-learning-on-Hyperspectral-Geology).</br>
+To follow the latest update please follow my researchgate [project](https://www.researchgate.net/project/Machine-learning-on-Hyperspectral-Geology).</br>
 ------------------------------------------------------------------------------------------------- </br>
 
 Mineral mapping on hyperspectral imagery usually done by classifying pixels with similar reflectance characteristics into groups. In this repository, all the images from hyperspectral sensor have been pre-processed from the digital number to reflectance value.
